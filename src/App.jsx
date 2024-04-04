@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Lets learn new Git hub topics
+            I make a new game now.
           </a>
         </p>
       </header>
